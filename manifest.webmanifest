@@ -1,0 +1,10 @@
+{
+  "name": "Between the Pages",
+  "short_name": "Between Pages",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3ead9",
+  "theme_color": "#30231f",
+  "description": "A quiet, personal digital library for your books.",
+  "icons": []
+}
